@@ -20,7 +20,7 @@ Leveraging the synergy of Faster R-CNN and MobileNetV3, we've crafted a high-per
 
 ![Object Detection Sample](https://github.com/ilayEldar24/Object-Detection-MobileNetV3/blob/main/Output%20ex3.png)
 ![Object Detection Sample](https://github.com/ilayEldar24/Object-Detection-MobileNetV3/blob/main/Ouptut%20ex2.png)
-![Object Detection Sample](https://github.com/ilayEldar24/Object-Detection-MobileNetV3/blob/main/Output%20ex3.png)
+
 
 *A glimpse into the model's detection prowess.*
 
