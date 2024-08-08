@@ -47,6 +47,4 @@ In the development journey of our object detection model, we confronted and surm
 - **Class Balance Optimization**: Addressing class imbalance through tailored sampling methods and adjusting class weights within the loss function. This ensures equitable learning across all labels, promoting a balanced detection capability irrespective of the label frequency in the training dataset.
 
 
-## 📜 License
 
-This project is under the MIT License. For more information, see [LICENSE](LICENSE.md).
